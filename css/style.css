@@ -282,6 +282,14 @@ p{
 	align-items: center;
 }
 
+.lists_technologies li{
+	list-style: square;
+	list-style-position: inside;
+	padding-left: 10px;
+	font-size: 14px;
+	padding: 10px;
+	padding-bottom: 20px;
+}
 
 /*project*/
 
